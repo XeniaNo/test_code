@@ -1,0 +1,16 @@
+ul.hr {
+    margin: 0;
+    padding: 4px;
+    text-align: center
+    }
+.lw {
+     text-align: center
+}
+ul.hr li {
+    text-align: center
+    display: inline;
+    margin-right: 5px;
+    border: 1px solid #DB7093;
+    padding: 3px;
+    
+}
